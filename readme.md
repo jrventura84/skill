@@ -14,7 +14,7 @@ O agente não promete detectar todo phishing nem declarar uma mensagem legítima
 
 O nome deixa claro o escopo e segue a convenção de nomes curtos em inglês usada pelo repositório. A conversa com a pessoa continua em português do Brasil.
 
-## Melhoria escolhida
+## Melhoria
 
 A melhoria é entregar análises consistentes usando um formato de saída fixo e uma matriz simples de impacto e probabilidade. O parecer registra separadamente:
 
