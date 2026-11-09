@@ -8,9 +8,9 @@ Esta proposta amplia o [DIO Agent](https://github.com/digitalinnovationone/dio-a
 
 O agente não promete detectar todo phishing nem declarar uma mensagem legítima com certeza. Uma análise de texto não substitui a verificação dos cabeçalhos completos, a inspeção em ambiente controlado ou o processo de resposta a incidentes da organização.
 
-## Nome sugerido
+## Skill 
 
-**Email Phishing Analysis** — nome da pasta e da skill: `email-phishing-analysis`.
+**Email Phishing Analysis** — `email-phishing-analysis`.
 
 O nome deixa claro o escopo e segue a convenção de nomes curtos em inglês usada pelo repositório. A conversa com a pessoa continua em português do Brasil.
 
